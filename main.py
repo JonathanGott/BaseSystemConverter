@@ -1,5 +1,5 @@
 """
-Created by: Charlie Doherty and Jonathon Gott
+Created by: Charlie Doherty and Jonathan Gott
 HackKU - University of Kansas
 4/11/2024
 
